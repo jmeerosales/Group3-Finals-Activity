@@ -1,14 +1,17 @@
 # Group3-Finals-Activity
+
 This repository presents a comparative Case Analysis of Case 1, Case 3, and Case 5, focusing on the practical application of numerical methods in diverse fields.
+
+---
 
 ## Prerequisites & Installation
 
-Before running the simulation scripts (e.g., `POPULATION.py`), you must ensure Python is installed and install the required dependencies.
+Install the required dependency before running the simulations:
 
-**1. Install PyQt6 (For GUI and Graphs):**
-Open your terminal and run:
 ```bash
 pip install PyQt6
+```
+---
 
 ## Case Analysis 1: Population Growth Analysis
 
@@ -104,3 +107,5 @@ $$P(t) = \frac{dE}{dt}$$
 
 ### Conclusion
 The study highlights the importance of monitoring peak hours. Strategies like using energy-efficient appliances during peak times can reduce costs and grid load.
+
+
